@@ -1,5 +1,5 @@
 {
-  "homepage": "https://mohanaaswath.22122005github.io/sample",
+  "homepage": "https://mohanaaswath.github.io/Expense-Tracker",
   "name": "vite-react-starter",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.86.0",
